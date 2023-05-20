@@ -1,4 +1,4 @@
-# Janus
+# Janus (Under Development)
 Multhitread Multi-wallet Brute-force Tool
 
 <p align="center">
